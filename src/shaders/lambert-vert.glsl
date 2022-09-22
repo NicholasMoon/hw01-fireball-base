@@ -1,11 +1,5 @@
 #version 300 es
 
-//This is a vertex shader. While it is called a "shader" due to outdated conventions, this file
-//is used to apply matrix transformations to the arrays of vertex data passed to it.
-//Since this code is run on your GPU, each vertex is transformed simultaneously.
-//If it were run on your CPU, each vertex would have to be processed in a FOR loop, one at a time.
-//This simultaneous transformation allows your program to run much faster, especially when rendering
-//geometry with millions of vertices.
 precision highp float;
 precision highp int;
 
