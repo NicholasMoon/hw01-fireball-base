@@ -1,5 +1,18 @@
 # [Project 1: Noise](https://github.com/CIS-566-Fall-2022/hw01-fireball-base)
 
+
+![](images/cap0.PNG)
+
+![](images/cap1.PNG)
+
+![](images/cap2.PNG)
+
+For this project, I implemented a lavaball on an alien planet with a star field. The lava ball, water, 
+terrain, and starfield all use some combination of worley noise and FBM for color changes. For toolbox functions, I made use of
+smoothstep, bias, gain, and sin/cos. I also used noise to distort the lavaball and water as a function
+of time, and the terrain was statically distorted by noise. The parameters for most of the noise functions
+used are available in the GUI for playing around with.
+
 ## Objective
 
 Get comfortable with using WebGL and its shaders to generate an interesting 3D, continuous surface using a multi-octave noise algorithm.
