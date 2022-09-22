@@ -1,5 +1,7 @@
 # [Project 1: Noise](https://github.com/CIS-566-Fall-2022/hw01-fireball-base)
 
+[LINK TO MY LIVE DEMO](https://nicholasmoon.github.io/hw01-fireball-base/)
+
 
 ![](images/cap0.PNG)
 
